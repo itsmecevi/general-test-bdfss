@@ -102,7 +102,15 @@ _____
     d. 166
 
 
-10.  ssdsdsd
+10. Manakah di bawah ini yang bukan merupakan pendekatan manajemen proyek untuk startup?
+
+    a. Kanban
+            <Br>
+    b. Agile
+                <Br>
+    c. Scrum
+                    <Br>
+    d. Waterfall            
 
 
 
