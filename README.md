@@ -110,7 +110,7 @@ _____
             <Br>
     c. Scrum
             <Br>
-    d. Waterfall            
+    d. Waterfall-x         
 
 
 11. Berapa hasil dari 9+2x3 ?
