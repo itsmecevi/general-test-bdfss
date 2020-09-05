@@ -146,23 +146,23 @@ d. 4-x
 
 14. Perhatikan rumus excel berikut ini, =SQRT(625) akan menghasilkan nilai ?
 
-a. 25
-<Br>
-b. 35
+    a. 25-x
     <Br>
-c. 45
+    b. 35
         <Br>
-d. 55
+    c. 45
+            <Br>
+    d. 55
 
 15. Untuk membuat sel absolut dalam excel menggunakan tanda ?
 
-a. = 
-<Br>
-b. & 
+    a. = 
     <Br>
-c. +
+    b. & 
         <Br>
-e. $
+    c. +
+            <Br>
+    e. $-x
 
 
 
