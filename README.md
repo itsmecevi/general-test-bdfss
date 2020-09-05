@@ -33,7 +33,7 @@ b. Oracle
   <Br>
 c. PostGre
     <Br>
-d. KNIME
+d. KNIME-x
 
 
 4. Lanjutkan deret angka berikut ini: 1, 3, 5, 7, ?
