@@ -58,3 +58,38 @@ c. 14
     <Br>
 d. 15
 
+
+
+6. Manakah di bawah ini yang merupakah data quantitatif kontinu?
+
+a. 7
+<Br>
+b. 7.77
+  <Br>
+c. Tujuh koma tujuh tujuh
+    <Br>
+d. 777
+
+7. Terletak pada apakah perbedaan dari distribusi normal dan distribusi normal standar?
+
+a. Besarnya data dan rumitnya data
+<Br>
+b. Big data dan bukan big data
+  <Br>
+c. Nilai rata-rata dan nilai standar deviasi-x
+    <Br>
+d. Data kualitatif dan data kuantitatif
+
+8. Manakah di bawah ini yang merupakan ukuran penyebaran data dalam statistik ?
+
+a. Rata-rata
+ <Br>
+b. Median atau nilai tengah
+   <Br>
+c. Jangkauan atau range
+      <Br>
+d. Kuartil
+
+
+
+
