@@ -136,13 +136,13 @@ _____
 
 13. Hasil dari log 25 +log 5+ log 80  adalah?
 
-a. 1
-<Br>
-b. 2
+    a. 1
     <Br>
-c. 3
+    b. 2
         <Br>
-d. 4-x
+    c. 3
+            <Br>
+    d. 4-x
 
 14. Perhatikan rumus excel berikut ini, =SQRT(625) akan menghasilkan nilai ?
 
