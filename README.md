@@ -133,11 +133,36 @@ _____
           <Br>
     d. 4√5
 
-13.
 
-14.
+13. Hasil dari log 25 +log 5+ log 80  adalah?
 
-15.
+a. 1
+<Br>
+b. 2
+    <Br>
+c. 3
+        <Br>
+d. 4-x
+
+14. Perhatikan rumus excel berikut ini, =SQRT(625) akan menghasilkan nilai ?
+
+a. 25
+<Br>
+b. 35
+    <Br>
+c. 45
+        <Br>
+d. 55
+
+15. Untuk membuat sel absolut dalam excel menggunakan tanda ?
+
+a. = 
+<Br>
+b. & 
+    <Br>
+c. +
+        <Br>
+e. $
 
 
 
