@@ -64,7 +64,7 @@ d. 15
 
 a. 7
 <Br>
-b. 7.77
+b. 7.77-x
   <Br>
 c. Tujuh koma tujuh tujuh
     <Br>
@@ -86,9 +86,21 @@ a. Rata-rata
  <Br>
 b. Median atau nilai tengah
    <Br>
-c. Jangkauan atau range
+c. Jangkauan atau range-x
       <Br>
 d. Kuartil
+        
+        
+9. Data Nilai Tinggi badan 10 mahasiswa ( Urutan terbesar ke terkecil ): 180, 171, 170, 167, 166, 165, 164, 160, 147, 145. Carilah nilai tengahnya atau median
+
+a. 165
+b. 164
+c. 165.5-x
+d. 166
+
+
+10.  
+
 
 
 
