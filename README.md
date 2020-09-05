@@ -107,10 +107,29 @@ _____
     a. Kanban
             <Br>
     b. Agile
-                <Br>
+            <Br>
     c. Scrum
-                    <Br>
+            <Br>
     d. Waterfall            
+
+
+11. Berapa hasil dari 9+2x3 ?
+
+    a. 15-x
+     <Br>
+    b. 33
+         <Br>
+    c. 2
+              <Br>
+    d. 13.25
+
+12.
+
+13.
+
+14.
+
+15.
 
 
 
