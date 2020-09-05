@@ -94,8 +94,11 @@ d. Kuartil
 9. Data Nilai Tinggi badan 10 mahasiswa ( Urutan terbesar ke terkecil ): 180, 171, 170, 167, 166, 165, 164, 160, 147, 145. Carilah nilai tengahnya atau median
 
 a. 165
+<Br>
 b. 164
+  <Br>
 c. 165.5-x
+    <Br>
 d. 166
 
 
